@@ -5,7 +5,7 @@ $$
 \begin{gather}
 V_0\space\text{is constant}
 \\
-g = 9.8 \frac{m}{s^2}
+g = 9.81 \frac{m}{s^2}
 \\
 \end{gather}
 $$
